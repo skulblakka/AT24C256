@@ -1,0 +1,23 @@
+{
+    "name": "AT24C256",
+    "version": "1.0.0",
+    "description": "A simple library for AT24C256 EEPROMs supporting page-writes",
+    "keywords": "AT24C256, EEPROM",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/skulblakka/AT24C256.git"
+    },
+    "authors":
+    [
+      {
+        "name": "skulblakka",
+        "url": "https://github.com/skulblakka",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/skulblakka/AT24C256",
+    "frameworks": "arduino",
+    "platforms": "atmelsam"
+  }
